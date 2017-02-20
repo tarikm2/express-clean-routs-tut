@@ -1,0 +1,24 @@
+{
+  "name": "express-clean-routs-tut",
+  "version": "1.0.0",
+  "description": "this is a basic follow along for the tutorial at https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers. ment to demo how to factor express apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarikm2/express-clean-routs-tut.git",
+    "start": "nodemon app.js"
+  },
+  "author": "Tarik Merzouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarikm2/express-clean-routs-tut/issues"
+  },
+  "homepage": "https://github.com/tarikm2/express-clean-routs-tut#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  }
+}
